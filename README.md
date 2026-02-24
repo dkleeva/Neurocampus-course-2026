@@ -5,3 +5,5 @@ This repository contains scripts and practical materials for the course "The Who
 This is an introductory course. It is designed for students who are encountering EEG and MEG analysis for the first time. The goal is to build intuition, conceptual clarity, and hands-on familiarity with real electrophysiological data. The course does not assume advanced mathematical background, deep signal processing expertise, or prior experience with neuroimaging toolboxes. 
 
 Lesson 1 notebook (`1. Intro to time series.ipynb`) introduces core time-series concepts. It covers sampling and Nyquist/aliasing intuition, quantization effects, basic frequency-domain representation, and fundamental discrete-time building blocks.
+
+Lesson 2 notebook (`2. First look at MEG and EEG copy.ipynb`) provides a first practical tour of MNE-Python structures: basic data inspection, sensor layout and EEG reference choices, montage setup, stimulus channels/events/annotations, and an introduction to ICA for separating mixed sources and artifacts.
