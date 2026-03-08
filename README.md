@@ -6,4 +6,4 @@ This is an introductory course. It is designed for students who are encountering
 
 Lesson 1 notebook (`1. Intro to time series.ipynb`) introduces core time-series concepts. It covers sampling and Nyquist/aliasing intuition, quantization effects, basic frequency-domain representation, and fundamental discrete-time building blocks.
 
-Lesson 2 notebook (`2. First look at MEG and EEG copy.ipynb`) provides a first practical tour of MNE-Python structures: basic data inspection, sensor layout and EEG reference choices, montage setup, stimulus channels/events/annotations, and an introduction to ICA for separating mixed sources and artifacts.
+Lesson 2 notebook (`2. First look at MEG and EEG copy.ipynb`) provides a first practical tour of MNE-Python structures: basic data inspection, sensor layout and EEG reference choices, and montage setup.
