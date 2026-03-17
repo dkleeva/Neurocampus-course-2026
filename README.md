@@ -9,3 +9,5 @@ Lesson 1 (`1. Intro to time series.ipynb`) introduces core time-series concepts.
 Lesson 2 (`2. First look at MEG and EEG copy.ipynb`) provides a first practical tour of MNE-Python structures: basic data inspection, sensor layout and EEG reference choices, and montage setup.
 
 Lesson 3 (`3. Artefact correction.ipynb`) introduces practical artefact correction in MNE-Python. It walks through segment annotation, compares PSD across conditions and scalp regions (e.g., eyes open vs eyes closed), demonstrates bad-channel interpolation, and applies SSP to identify and suppress the artefacts in real EEG data.
+
+Lesson 4 (`4. Decomposition methods.ipynb`) introduces decomposition-based analysis for EEG/MEG. It builds intuition for projections and subspaces, demonstrates SVD and PCA as tools for dimensionality reduction and denoising, and introduces ICA for blind source separation and artefact-related component identification. 
