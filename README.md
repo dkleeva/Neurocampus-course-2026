@@ -12,4 +12,4 @@ Lesson 3 (`3. Artefact correction.ipynb`) introduces practical artefact correcti
 
 Lesson 4 (`4. Decomposition methods.ipynb`) introduces decomposition-based analysis for EEG/MEG. It builds intuition for projections and subspaces, demonstrates SVD and PCA as tools for dimensionality reduction and denoising, and introduces ICA for blind source separation and artefact-related component identification. 
 
-Lesson 5 (`5. Evoked responses.ipynb`) introduces event-related analysis in MNE-Python. It covers event extraction from annotations, epoching with baseline correction and rejection criteria, and computation/visualization of evoked responses after basic ICA-based cleaning.
+Lesson 5 (`5. Evoked and induced activity.ipynb`) introduces event-related and time-frequency analysis in MNE-Python. It covers event extraction from annotations, epoching with baseline correction and rejection criteria, computation/visualization of evoked responses after basic ICA-based cleaning, and a first look at induced activity using time-frequency power maps.
