@@ -14,4 +14,6 @@ Lesson 4 (`4. Decomposition methods.ipynb`) introduces decomposition-based analy
 
 Lesson 5 (`5. Evoked and induced activity.ipynb`) introduces event-related and time-frequency analysis in MNE-Python. It covers event extraction from annotations, epoching with baseline correction and rejection criteria, computation/visualization of evoked responses after basic ICA-based cleaning, and a first look at induced activity using time-frequency power maps.
 
-Lesson 6 (`6. Spectral analysis.ipynb`) focuses on spectral analysis of EEG/MEG signals. It introduces power spectral density estimation and compares common approaches to spectral decomposition.
+Lesson 6 (`6. Spectral analysis.ipynb`) focuses on spectral analysis of the synthesized signals. It introduces power spectral density estimation and compares common approaches to spectral decomposition.
+
+Lesson 7 (`7. Filtering.ipynb`) introduces practical digital filtering for synthesized signals. It compares short and long filters, demonstrates high-pass and low-pass effects in time and frequency domains, and highlights how filter design choices affect signal interpretation.
