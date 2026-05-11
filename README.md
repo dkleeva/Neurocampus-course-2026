@@ -16,4 +16,8 @@ Lesson 5 (`5. Evoked and induced activity.ipynb`) introduces event-related and t
 
 Lesson 6 (`6. Spectral analysis.ipynb`) focuses on spectral analysis of the synthesized signals. It introduces power spectral density estimation and compares common approaches to spectral decomposition.
 
-Lesson 7 (`7. Filtering.ipynb`) introduces practical digital filtering for synthesized signals. It compares short and long filters, demonstrates high-pass and low-pass effects in time and frequency domains, and highlights how filter design choices affect signal interpretation.
+Lesson 7 (`7. Filtering.ipynb`) introduces practical digital filtering for synthesized signals. 
+
+Lesson 8 (`8. Forward modeling and dipoles.ipynb`) connects anatomy and sensors to predicted fields. It contrasts spherical and BEM head models, walks through dipole parameters, coregistration, forward solution computation, and topographic visualization.
+
+Lesson 9 (`9. Dipoles fitting.ipynb`) turns from forward modeling to estimating sources from data. It covers  standard dipole fitting, comparing predicted and observed fields, visualizing fits, dipole time courses, and other approaches such as XFit and RAP-MUSIC.
