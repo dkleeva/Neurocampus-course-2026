@@ -20,4 +20,6 @@ Lesson 7 (`7. Filtering.ipynb`) introduces practical digital filtering for synth
 
 Lesson 8 (`8. Forward modeling and dipoles.ipynb`) connects anatomy and sensors to predicted fields. It contrasts spherical and BEM head models, walks through dipole parameters, coregistration, forward solution computation, and topographic visualization.
 
-Lesson 9 (`9. Dipoles fitting.ipynb`) turns from forward modeling to estimating sources from data. It covers  standard dipole fitting, comparing predicted and observed fields, visualizing fits, dipole time courses, and other approaches such as XFit and RAP-MUSIC.
+Lesson 9 (`9. Dipoles fitting.ipynb`) turns from forward modeling to estimating sources from data. It covers standard dipole fitting, comparing predicted and observed fields, visualizing fits, dipole time courses, and other approaches such as XFit and RAP-MUSIC.
+
+Lesson 10 (`10. Distributed sources.ipynb`) moves from single dipoles to distributed source imaging. It introduces LCMV beamforming and spatial filters, minimum-norm estimates with regularization and normalization, data-covariance-based inverse modeling, and discusses source leakage and alternative inverse operators.
